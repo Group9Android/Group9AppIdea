@@ -79,8 +79,6 @@ Your [design product spec](https://www.figma.com/file/fQhB1N8VlliP9HtEcyYUXQbf/U
 ## 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-
- * [fill in your required user stories here]
  * ...Swipe images, look at news feed, tweet, post, make profile.
 
 **Optional Nice-to-have Stories**
