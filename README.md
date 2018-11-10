@@ -70,4 +70,37 @@ When we have many choices to make but only need 1 decision, put ideas into the a
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+// https://www.figma.com/file/fQhB1N8VlliP9HtEcyYUXQbf/Untitled?node-id=0%3A1
+
+# README Template
+
+Your [design product spec](https://www.figma.com/file/fQhB1N8VlliP9HtEcyYUXQbf/Untitled?node-id=0%3A1) (described in that link) will look like the following in your README:
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * [fill in your required user stories here]
+ * ...Swipe images, look at news feed, tweet, post, make profile.
+
+**Optional Nice-to-have Stories**
+
+ * [fill in your required user stories here]
+ * ...Quote messages, motivational, positivity
+
+## 2. Screen Archetypes
+
+ * [Register]
+   * [Pictures]
+   * ...
+ * [Login or make acount]
+   * [news feed]
+   [Main page where you can use the app]
+   * [news feed]
+   * ...
+
+## 3. Navigation
+
+**Tab and flow Navigation** (Tab to Screen)
+
+ * [Tab and flow navigation. Swipe on pictures, click on links, buttons arrows]
