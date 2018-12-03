@@ -70,8 +70,7 @@ When we have many choices to make but only need 1 decision, put ideas into the a
 ---
 
 ### App Pitch Presentation
-// https://www.figma.com/file/fQhB1N8VlliP9HtEcyYUXQbf/Untitled?node-id=0%3A1
-
+// https://docs.google.com/presentation/d/1EWuTzPBVJjTiiq__GIstJkeMGlvK-BlAr0cDZ4p28jg/edit?usp=sharing
 # README Template
 
 Your [design product spec](https://www.figma.com/file/fQhB1N8VlliP9HtEcyYUXQbf/Untitled?node-id=0%3A1) (described in that link) will look like the following in your README:
